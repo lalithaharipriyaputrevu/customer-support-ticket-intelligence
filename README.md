@@ -56,5 +56,66 @@ Azure SQL Database
 Power BI
    ↓
 Interactive Analytics Dashboard
+```
+
+## Dataset 
+
+The project contains:
+
+- 10,000 customers
+- 50,000 support tickets
+
+### Customer segments
+- Standard
+- Premium
+- Enterprise
+
+### Support channels
+- Chat
+- Email
+- Phone
+- Web
+
+### Issue types
+- Technical Problem
+- Order/Service Issue
+- Payment Issue
+- Account Access
+- Delivery Delay
+- Refund Request
+
+## Key KPIs
+
+- Total Tickets                                    - 50,000
+- SLA Breach Rate                                  - 66.61%
+- Escalation Rate                                  - 12.84%
+- Average resolution time                          - 36.56 hours
+- Average satisfaction score                       - 2.91
+
+## Key Findings
+
+## High SLA Breach Rate
+66.61% of tickets breach the defined SLA target, indicating a significant oppurtunity to improve the resolution efficiency.
+
+## Technical Problems Drive demand
+Technical problems generated the highest ticket volume with 12,537 tickets and also had the highest Escalation rate of 15.77%.
+
+## Resolution time is the major SLA driver
+Tickets which are resolved within 24 hours have 0% SLA Breach Rate. But the tickets taking 25 hours or longer have 100% SLA Breach Rate.
+
+## Strategic Recommendations
+
+- **Reduce SLA breaches:** Prioritize tickets approaching SLA deadlines and introduce proactive escalation.
+- **Reduce technical ticket volume:** Perform root-cause analysis and create preventive fixes for recurring technical issues.
+- **Improve resolution speed:** Strengthen first-level support and routing to resolve tickets within 24 hours.
+- **Improve channel performance:** Review Web-support workflows because Web has the highest SLA breach rate.
+- **Reduce enterprise escalations:** Provide faster intervention for high-priority Enterprise cases.
+
+
+
+
+
+
+
 
 
