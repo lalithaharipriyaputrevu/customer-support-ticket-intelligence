@@ -144,7 +144,34 @@ The dashboard includes:
   - Escalation Rate
   - Average Customer Satisfaction
   - Average Resolution Time
-    
+
+## 📁 Project Structure
+
+```text
+customer-support-ticket-intelligence/
+│
+├── README.md
+│
+├── python/
+│   └── support_intelligence.py
+│
+├── sql/
+│   └── analysis_queries.sql
+│
+├── azure/
+│   └── architecture.md
+│
+├── powerbi/
+│   └── dashboard_screenshots/
+│       ├── page1_overview.png
+│       ├── page2_issue_sla.png
+│       ├── page3_segment_channel.png
+│       ├── page4_resolution_satisfaction.png
+│       └── page5_executive_summary.png
+│
+└── data/
+    └── README.md
+
 
 
 
