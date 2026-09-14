@@ -111,6 +111,26 @@ Tickets which are resolved within 24 hours have 0% SLA Breach Rate. But the tick
 - **Improve channel performance:** Review Web-support workflows because Web has the highest SLA breach rate.
 - **Reduce enterprise escalations:** Provide faster intervention for high-priority Enterprise cases.
 
+## Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of customer support performance across multiple analytical dimensions.
+
+The dashboard includes:
+
+- Support Performance Overview
+- Issue and SLA Analysis
+- Customer Segment and Support Channel Anlaysis
+- Resolution Time and Customer Satisfaction Analysis
+- Executive Summary and strategic recommendations
+
+  Key KPIs include:
+
+  - Total Tickets
+  - SLA Breach Rate
+  - Escalation Rate
+  - Average Customer Satisfaction
+  - Average Resolution Time
+    
 
 
 
