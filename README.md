@@ -117,23 +117,23 @@ The Power BI dashboard provides an interactive view of customer support performa
 
 The dashboard includes:
 
-## Support Performance Overview
+### Support Performance Overview
 
 ![Support Performance Overview](powerbi/dashboard_screenshots/page1_overview.png)
 
-## Issue and SLA Analysis
+### Issue and SLA Analysis
 
 ![Issue and SLA Analysis](powerbi/dashboard_screenshots/page2_issue_sla.png)
 
-## Customer Segment and Support Channel Anlaysis
+### Customer Segment and Support Channel Anlaysis
 
 ![Customer Segment and Support Channel Analysis](powerbi/dashboard_screenshots/page3_segment_channel.png)
 
-## Resolution Time and Customer Satisfaction Analysis
+### Resolution Time and Customer Satisfaction Analysis
 
 ![Resolution Time and Customer Satisfaction](powerbi/dashboard_screenshots/page4_resolution_satisfaction.png)
 
-## Executive Summary and strategic recommendations
+### Executive Summary and strategic recommendations
 
 ![Executive Summary and Recommendations](powerbi/dashboard_screenshots/page5_executive_summary.png)
 
@@ -168,9 +168,6 @@ customer-support-ticket-intelligence/
 │       ├── page3_segment_channel.png
 │       ├── page4_resolution_satisfaction.png
 │       └── page5_executive_summary.png
-│
-└── data/
-    └── README.md
 
 
 
